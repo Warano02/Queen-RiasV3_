@@ -5,7 +5,7 @@ module.exports = {
     prefix: process.env.PREFIX || "*",
     ownerName: process.env.OWNER_NAME || "Warano",
     ownerNumber: process.env.OWNER_NUMBER || "237621092130",
-    mode: process.env.MODE || "private",
+    mode: process.env.MODE || "public",
     region: process.env.REGION || "Waratack",
     botName: process.env.BOT_NAME || "Waratack v1",
     exifPack: process.env.EXIF_PACK || "Warano Loves",
